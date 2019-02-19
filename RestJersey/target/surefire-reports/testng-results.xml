@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.javatpoint.rest.HelloTest" duration-ms="259" started-at="2019-02-15T07:05:32Z" finished-at="2019-02-15T07:05:32Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="259" started-at="2019-02-15T07:05:32Z" finished-at="2019-02-15T07:05:32Z">
+      <class name="com.javatpoint.rest.HelloTest">
+        <test-method status="PASS" signature="TestLogin()[pri:0, instance:com.javatpoint.rest.HelloTest@511baa65]" name="TestLogin" duration-ms="209" started-at="2019-02-15T07:05:32Z" finished-at="2019-02-15T07:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="Testsignup()[pri:0, instance:com.javatpoint.rest.HelloTest@511baa65]" name="Testsignup" duration-ms="25" started-at="2019-02-15T07:05:32Z" finished-at="2019-02-15T07:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testsignup -->
+      </class> <!-- com.javatpoint.rest.HelloTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.javatpoint.rest.HelloTest -->
+</testng-results>
